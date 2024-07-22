@@ -1,0 +1,26 @@
+{
+  "name": "pruebas-bootcamp",
+  "version": "1.0.0",
+  "description": "backend Node + Express + TS + Swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesRueda/OpenBootcamp-GIT.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "typescript",
+    "swagger",
+    "mongoose"
+  ],
+  "author": "@Ulise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UlisesRueda/OpenBootcamp-GIT/issues"
+  },
+  "homepage": "https://github.com/UlisesRueda/OpenBootcamp-GIT#readme"
+}
